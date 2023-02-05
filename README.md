@@ -1,4 +1,4 @@
-# Shop-Rest-API
+# Rest-API
 First clone the repo
 cd into server
 then run
